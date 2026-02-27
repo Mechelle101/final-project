@@ -13,8 +13,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 YEAR_MENU_URL = "https://www.baseball-almanac.com/yearmenu.shtml"
 YEAR_URL = "https://www.baseball-almanac.com/yearly/yr1991a.shtml"
 
-START_YEAR = 1991
-END_YEAR = 1992
+START_YEAR = 1990
+END_YEAR = 2010
 
 RAW_DIR = Path("data/raw")
 RAW_DIR.mkdir(parents=True, exist_ok=True)

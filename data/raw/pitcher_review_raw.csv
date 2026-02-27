@@ -1,4 +1,14 @@
 Year,Statistic,Name,Team,#,Top 25
+1990,Complete Games,Jack Morris,Detroit,11,Top 25
+1990,Complete Games,Dave Stewart,Oakland,11,Top 25
+1990,ERA,Roger Clemens,Boston,1.93,Top 25
+1990,Games,Bobby Thigpen,Chicago,77,Top 25
+1990,Saves,Bobby Thigpen,Chicago,57,Top 25
+1990,Shutouts,Roger Clemens,Boston,4,Top 25
+1990,Shutouts,Dave Stewart,Oakland,4,Top 25
+1990,Strikeouts,Nolan Ryan,Texas,269,Top 25
+1990,Winning Percentage,Bob Welch,Oakland,.818,Top 25
+1990,Wins,Bob Welch,Oakland,27,Top 25
 1991,Complete Games,Jack McDowell,Chicago,15,Top 25
 1991,ERA,Roger Clemens,Boston,2.62,Top 25
 1991,Games,Duane Ward,Toronto,81,Top 25
@@ -17,3 +27,175 @@ Year,Statistic,Name,Team,#,Top 25
 1992,Winning Percentage,Mike Mussina,Baltimore,.783,Top 25
 1992,Wins,Kevin Brown,Texas,21,Top 25
 1992,Wins,Jack Morris,Toronto,21,Top 25
+1993,Complete Games,Chuck Finley,California,13,Top 25
+1993,ERA,Kevin Appier,Kansas City,2.56,Top 25
+1993,Games,Greg Harris,Boston,80,Top 25
+1993,Saves,Jeff Montgomery,Kansas City,45,Top 25
+1993,Saves,Duane Ward,Toronto,45,Top 25
+1993,Shutouts,Jack McDowell,Chicago,4,Top 25
+1993,Strikeouts,Randy Johnson,Seattle,308,Top 25
+1993,Winning Percentage,Jimmy Key,New York,.750,Top 25
+1993,Wins,Jack McDowell,Chicago,22,Top 25
+1994,Complete Games,Randy Johnson,Seattle,9,Top 25
+1994,ERA,Steve Ontiveros,Oakland,2.65,Top 25
+1994,Games,Bob Wickman,New York,53,Top 25
+1994,Saves,Lee Smith,Baltimore,33,Top 25
+1994,Shutouts,Randy Johnson,Seattle,4,Top 25
+1994,Strikeouts,Randy Johnson,Seattle,204,Top 25
+1994,Winning Percentage,Jason Bere,Chicago,.857,Top 25
+1994,Wins,Jimmy Key,New York,17,Top 25
+1995,Complete Games,Jack McDowell,New York,8,Top 25
+1995,ERA,Randy Johnson,Seattle,2.48,Top 25
+1995,Games,Jesse Orosco,Baltimore,65,Top 25
+1995,Saves,Jose Mesa,Cleveland,46,Top 25
+1995,Shutouts,Mike Mussina,Baltimore,4,Top 25
+1995,Strikeouts,Randy Johnson,Seattle,294,Top 25
+1995,Winning Percentage,Randy Johnson,Seattle,.900,Top 25
+1995,Wins,Mike Mussina,Baltimore,19,Top 25
+1996,Complete Games,Pat Hentgen,Toronto,10,Top 25
+1996,ERA,Juan Guzman,Toronto,2.93,Top 25
+1996,Games,Eddie Guardado,Minnesota,83,Top 25
+1996,Games,Mike Myers,Detroit,83,Top 25
+1996,Saves,John Wetteland,New York,43,Top 25
+1996,Shutouts,Pat Hentgen,Toronto,3,Top 25
+1996,Shutouts,Ken Hill,Texas,3,Top 25
+1996,Shutouts,Rich Robertson,Minnesota,3,Top 25
+1996,Strikeouts,Roger Clemens,Boston,257,Top 25
+1996,Winning Percentage,Charles Nagy,Cleveland,.773,Top 25
+1996,Wins,Andy Pettitte,New York,21,Top 25
+1997,Complete Games,Roger Clemens,Toronto,9,Top 25
+1997,Complete Games,Pat Hentgen,Toronto,9,Top 25
+1997,ERA,Roger Clemens,Toronto,2.05,Top 25
+1997,Games,Mike Myers,Detroit,88,Top 25
+1997,Saves,Randy Myers,Baltimore,45,Top 25
+1997,Shutouts,Roger Clemens,Toronto,3,Top 25
+1997,Shutouts,Pat Hentgen,Toronto,3,Top 25
+1997,Strikeouts,Roger Clemens,Toronto,292,Top 25
+1997,Winning Percentage,Randy Johnson,Seattle,.833,Top 25
+1997,Wins,Roger Clemens,Toronto,21,Top 25
+1998,Complete Games,Scott Erickson,Baltimore,11,Top 25
+1998,ERA,Roger Clemens,Toronto,2.65,Top 25
+1998,Games,Sean Runyan,Detroit,88,Top 25
+1998,Saves,Tom Gordon,Boston,46,Top 25
+1998,Shutouts,David Wells,New York,5,Top 25
+1998,Strikeouts,Roger Clemens,Toronto,271,Top 25
+1998,Winning Percentage,David Wells,New York,.818,Top 25
+1998,Wins,Roger Clemens,Toronto,20,Top 25
+1998,Wins,David Cone,New York,20,Top 25
+1998,Wins,Rick Helling,Texas,20,Top 25
+1999,Complete Games,David Wells,Toronto,7,Top 25
+1999,ERA,Pedro Martinez,Boston,2.07,Top 25
+1999,Games,Buddy Groom,Oakland,76,Top 25
+1999,Games,Bob Wells,Minnesota,76,Top 25
+1999,Saves,Mariano Rivera,New York,45,Top 25
+1999,Shutouts,Scott Erickson,Baltimore,3,Top 25
+1999,Strikeouts,Pedro Martinez,Boston,313,Top 25
+1999,Winning Percentage,Pedro Martinez,Boston,.852,Top 25
+1999,Wins,Pedro Martinez,Boston,23,Top 25
+2000,Complete Games,David Wells,Toronto,9,Top 25
+2000,ERA,Pedro Martinez,Boston,1.74,Top 25
+2000,Games,Kelly Wunsch,Chicago,83,Top 25
+2000,Saves,Todd Jones,Detroit,42,Top 25
+2000,Saves,Derek Lowe,Boston,42,Top 25
+2000,Shutouts,Pedro Martinez,Boston,4,Top 25
+2000,Strikeouts,Pedro Martinez,Boston,284,Top 25
+2000,Winning Percentage,Tim Hudson,Oakland,.769,Top 25
+2000,Wins,Tim Hudson,Oakland,20,Top 25
+2000,Wins,David Wells,Toronto,20,Top 25
+2001,Complete Games,Steve Sparks,Detroit,8,Top 25
+2001,ERA,Freddy Garcia,Seattle,3.05,Top 25
+2001,Games,Paul Quantrill,Toronto,80,Top 25
+2001,Saves,Mariano Rivera,New York,50,Top 25
+2001,Shutouts,Mark Mulder,Oakland,4,Top 25
+2001,Strikeouts,Hideo Nomo,Boston,220,Top 25
+2001,Winning Percentage,Roger Clemens,New York,.870,Top 25
+2001,Wins,Mark Mulder,Oakland,21,Top 25
+2002,Complete Games,Paul Byrd,Kansas City,7,Top 25
+2002,ERA,Pedro Martinez,Boston,2.26,Top 25
+2002,Games,Billy Koch,Oakland,84,Top 25
+2002,Saves,Eddie Guardado,Minnesota,45,Top 25
+2002,Shutouts,Jeff Weaver,New York,3,Top 25
+2002,Strikeouts,Pedro Martinez,Boston,239,Top 25
+2002,Winning Percentage,Pedro Martinez,Boston,.833,Top 25
+2002,Wins,Barry Zito,Oakland,23,Top 25
+2003,Complete Games,Bartolo Colon,Chicago,9,Top 25
+2003,Complete Games,Roy Halladay,Toronto,9,Top 25
+2003,Complete Games,Mark Mulder,Oakland,9,Top 25
+2003,ERA,Pedro Martinez,Boston,2.22,Top 25
+2003,Games,Trever Miller,Toronto,79,Top 25
+2003,Saves,Keith Foulke,Oakland,43,Top 25
+2003,Shutouts,Roy Halladay,Toronto,2,Top 25
+2003,Shutouts,Tim Hudson,Oakland,2,Top 25
+2003,Shutouts,John Lackey,Anaheim,2,Top 25
+2003,Shutouts,Mark Mulder,Oakland,2,Top 25
+2003,Shutouts,Joel Pineiro,Seattle,2,Top 25
+2003,Strikeouts,Esteban Loaiza,Chicago,207,Top 25
+2003,Winning Percentage,Roy Halladay,Toronto,.759,Top 25
+2003,Wins,Roy Halladay,Toronto,22,Top 25
+2004,Complete Games,Mark Mulder,Oakland,5,Top 25
+2004,Complete Games,Sidney Ponson,Baltimore,5,Top 25
+2004,Complete Games,Jake Westbrook,Cleveland,5,Top 25
+2004,ERA,Johan Santana,Minnesota,2.61,Top 25
+2004,Games,Paul Quantrill,New York,86,Top 25
+2004,Saves,Mariano Rivera,New York,53,Top 25
+2004,Shutouts,Jeremy Bonderman,Detroit,2,Top 25
+2004,Shutouts,Tim Hudson,Oakland,2,Top 25
+2004,Shutouts,Sidney Ponson,Baltimore,2,Top 25
+2004,Strikeouts,Johan Santana,Minnesota,265,Top 25
+2004,Winning Percentage,Curt Schilling,Boston,.778,Top 25
+2004,Wins,Curt Schilling,Boston,21,Top 25
+2005,Complete Games,Roy Halladay,Toronto,5,Top 25
+2005,ERA,Kevin Millwood,Cleveland,2.86,Top 25
+2005,Games,Mike Timlin,Boston,81,Top 25
+2005,Saves,Francisco Rodriguez,Los Angeles,45,Top 25
+2005,Saves,Bob Wickman,Cleveland,45,Top 25
+2005,Shutouts,Jon Garland,Chicago,3,Top 25
+2005,Strikeouts,Johan Santana,Minnesota,238,Top 25
+2005,Winning Percentage,Cliff Lee,Cleveland,.783,Top 25
+2005,Wins,Bartolo Colon,Los Angeles,21,Top 25
+2006,Complete Games,CC Sabathia,Cleveland,6,Top 25
+2006,ERA,Johan Santana,Minnesota,2.77,Top 25
+2006,Games,Scott Proctor,New York,83,Top 25
+2006,Saves,Francisco Rodriguez,Los Angeles,47,Top 25
+2006,Shutouts,John Lackey,Los Angeles,2,Top 25
+2006,Shutouts,CC Sabathia,Cleveland,2,Top 25
+2006,Shutouts,Jeremy Sowers,Cleveland,2,Top 25
+2006,Shutouts,Jake Westbrook,Cleveland,2,Top 25
+2006,Strikeouts,Johan Santana,Minnesota,245,Top 25
+2006,Winning Percentage,Roy Halladay,Toronto,.762,Top 25
+2006,Wins,Johan Santana,Minnesota,19,Top 25
+2006,Wins,Chien-Ming Wang,New York,19,Top 25
+2006,2006 N.L. | A.L. Retirements | A.L. Rookies | Year-by-Year,2006 N.L. | A.L. Retirements | A.L. Rookies | Year-by-Year,2006 N.L. | A.L. Retirements | A.L. Rookies | Year-by-Year,2006 N.L. | A.L. Retirements | A.L. Rookies | Year-by-Year,2006 N.L. | A.L. Retirements | A.L. Rookies | Year-by-Year
+2007,Complete Games,Roy Halladay,Toronto,7,Top 25
+2007,ERA,John Lackey,Los Angeles,3.01,Top 25
+2007,Games,Jamie Walker,Baltimore,81,Top 25
+2007,Saves,Joe Borowski,Cleveland,45,Top 25
+2007,Shutouts,Paul Byrd,Cleveland,2,Top 25
+2007,Shutouts,Jose Contreras,Chicago,2,Top 25
+2007,Shutouts,John Lackey,Cleveland,2,Top 25
+2007,Shutouts,Jeff Weaver,Seattle,2,Top 25
+2007,Strikeouts,Scott Kazmir,Tampa Bay,239,Top 25
+2007,Winning Percentage,Justin Verlander,Detroit,.762,Top 25
+2007,Wins,Josh Beckett,Boston,20,Top 25
+2007,2007 N.L. | A.L. Retirements | A.L. Rookies | Year-by-Year,2007 N.L. | A.L. Retirements | A.L. Rookies | Year-by-Year,2007 N.L. | A.L. Retirements | A.L. Rookies | Year-by-Year,2007 N.L. | A.L. Retirements | A.L. Rookies | Year-by-Year,2007 N.L. | A.L. Retirements | A.L. Rookies | Year-by-Year
+2009,Complete Games,Roy Halladay,Toronto,9,Top 25
+2009,ERA,Zack Greinke,Kansas City,2.16,Top 25
+2009,Games,Matt Guerrier,Minnesota,79,Top 25
+2009,Saves,Brian Fuentes,Los Angeles,48,Top 25
+2009,Shutouts,Roy Halladay,Toronto,4,Top 25
+2009,Strikeouts,Justin Verlander,Detroit,269,Top 25
+2009,Winning Percentage,Felix Hernandez,Seattle,.792,Top 25
+2009,Wins,Felix Hernandez,Seattle,19,Top 25
+2009,Wins,C.C. Sabathia,New York,19,Top 25
+2009,Wins,Justin Verlander,Detroit,19,Top 25
+2010,Complete Games,Cliff Lee,Seattle / Texas,7,Top 25
+2010,Complete Games,Carl Pavano,Minnesota,7,Top 25
+2010,ERA,Felix Hernandez,Seattle,2.27,Top 25
+2010,Games,Randy Choate,Tampa Bay,85,Top 25
+2010,Saves,Rafael Soriano,Tampa Bay,45,Top 25
+2010,Shutouts,Dallas Braden,Oakland,2,Top 25
+2010,Shutouts,Carl Pavano,Minnesota,2,Top 25
+2010,Strikeouts,Jered Weaver,Los Angeles,233,Top 25
+2010,Winning Percentage,Tommy Hunter,Texas,.765,Top 25
+2010,Wins,C.C. Sabathia,New York,21,Top 25
+2010,2010 N.L. | A.L. Retirements | A.L. Rookies | Year-by-Year,2010 N.L. | A.L. Retirements | A.L. Rookies | Year-by-Year,2010 N.L. | A.L. Retirements | A.L. Rookies | Year-by-Year,2010 N.L. | A.L. Retirements | A.L. Rookies | Year-by-Year,2010 N.L. | A.L. Retirements | A.L. Rookies | Year-by-Year
