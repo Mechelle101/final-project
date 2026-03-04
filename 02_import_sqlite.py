@@ -41,6 +41,8 @@ def clean_player_pitcher(df: pd.DataFrame) -> pd.DataFrame:
         if df[col].dtype == 'object':
             df[col] = df[col].astype(str).str.strip()
             
+    df = df[~df["Statistic"].astype(str).str.contains(r"\||Year-by-Year|Retirements|Rookies|History", case=False, na=False)]
+            
     # enforce types, int or decimal as appropriate
     df["Year"] = to_int(df["Year"])
     df["#"] = to_float(df["#"])
